@@ -1,2 +1,2 @@
 # hello-fn
-OptionalFn example
+OptionalFn examples
